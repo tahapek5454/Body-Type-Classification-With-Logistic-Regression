@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "height": 180,
+      "weight": 85,
+      "armCircumference": 41,
+      "chestCircumference": 110,
+      "shoulderCircumference": 60,
+      "waistCircumference": 88,
+      "legCircumference": 60
+    },
+    {
+      "height": 160,
+      "weight": 48,
+      "armCircumference": 25,
+      "chestCircumference": 60,
+      "shoulderCircumference": 40,
+      "waistCircumference": 70,
+      "legCircumference": 48
+    }
+  ]
+}
